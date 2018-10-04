@@ -19,5 +19,6 @@ public class WordFinderUser {
                 wordFinder.writeSentenceToResult(sentence);
             }
         }
+        System.out.println("Test");
     }
 }
